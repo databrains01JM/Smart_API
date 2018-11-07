@@ -16,7 +16,7 @@ class LandingUrl(Resource):
     def get(self):
         return {
             'url': {
-                'Touro University':'https://dbi-app01.databrains.com/views/SMARTLandingpage/LandingPage?:embed=y&:linktarget=_parent#8'
+                'Touro University':'link to url'
                 }
             }
 
